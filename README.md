@@ -5,7 +5,7 @@ Welcome to my data portfolio! This repository showcases a collection of projects
 ## 📂 Repository Structure
 
 ```
-├── SQL_Superstore_Analysis/
+├── Superstore_Project_Database/
 │   ├── data/
 │   ├── queries/
 │   ├── results/
@@ -25,7 +25,7 @@ Welcome to my data portfolio! This repository showcases a collection of projects
 
 ## 📌 Featured Projects
 
-### 1. 🛒 SQL Superstore Analysis
+### 1. 🛒 Superstore Project Database
 
 **Objective:** Analyzed a fictional superstore dataset to uncover insights about inventory, pricing, and customer preferences.
 
@@ -36,7 +36,7 @@ Welcome to my data portfolio! This repository showcases a collection of projects
 - Performed complex queries to identify high-demand products and optimize inventory management.
 - Generated reports on pricing trends and customer ratings.
 
-[Explore the Project](./SQL_Superstore_Analysis/README.md)
+[Explore the Project]()
 
 ### 2. 📊 Project 2 Name
 
