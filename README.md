@@ -2,27 +2,6 @@
 
 Welcome to my data portfolio! This repository showcases a collection of projects that demonstrate my skills in SQL, data analysis, and other related fields. Each project includes detailed documentation and the corresponding code or queries, designed to solve real-world problems or provide valuable insights.
 
-## 📂 Repository Structure
-
-```
-├── Superstore_Project_Database/
-│   ├── data/
-│   ├── queries/
-│   ├── results/
-│   └── README.md
-├── Project_2_Name/
-│   ├── data/
-│   ├── scripts/
-│   ├── results/
-│   └── README.md
-├── Project_3_Name/
-│   ├── data/
-│   ├── notebooks/
-│   ├── visualizations/
-│   └── README.md
-└── README.md
-```
-
 ## 📌 Featured Projects
 
 ### 1. 🛒 Superstore Project Database
