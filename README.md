@@ -15,7 +15,7 @@ Welcome to my data portfolio! This repository showcases a collection of projects
 - Performed complex queries to identify high-demand products and optimize inventory management.
 - Generated reports on pricing trends and customer ratings.
 
-[Explore the Project]()
+[Explore the Project](https://github.com/ImEyePatch/SQL/blob/main/Superstore%20Project%20Database)
 
 ### 2. 📊 Project 2 Name
 
