@@ -18,21 +18,19 @@ Welcome to my data portfolio! This repository showcases a collection of projects
 [Explore the Project](https://github.com/ImEyePatch/SQL/blob/main/Superstore%20Project%20Database)
 
 ### 2. 💼 Project 2: SQL Fortune 500 Companies Analysis
-Dataset: The dataset represents a list of Fortune 500 companies with attributes such as company name, industry, revenue, employee count, healthcare benefits, paid time off (PTO) days, maternity leave weeks, and average employee tenure.
 
-Key SQL Queries:
+**Objective:** Analyzed a Fortune 500 companies dataset to compare employee benefits, tenure, and policies across industries.
 
-How does employee tenure differ between industries with and without healthcare benefits?
+**Key Skills:** SQL, Data Analysis
 
-SELECT ROUND(AVG(avg_employee_tenure), 1) AS "Average Tenure",
-CASE WHEN healthcare_benefits = 1 THEN "HAS BENEFITS" 
-     WHEN healthcare_benefits = 0 THEN "NO BENEFITS"
-END AS "Healthcare"
-FROM fortune_companies
-GROUP BY healthcare_benefits;
+**Highlights:**
+- Investigated how employee tenure varies based on healthcare benefits across different industries.
+- Identified companies with generous maternity leave and limited PTO policies.
+- Correlated industry employee counts with maternity leave offerings.
+- Determined which companies in the technology industry offer the most paid time off.
+- Explored the relationship between company size and employee tenure.
 
-
-[Explore the Project](./Project_2_Name/README.md)
+[Explore the Project](https://github.com/ImEyePatch/SQL/blob/main/Fortune%20500%20Data%20Analysis)
 
 ### 3. 📈 Project 3 Name
 
